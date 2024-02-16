@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhsahel&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhsahel" /> </p>
 
-- 🌱 I’m currently learning **from Creative It Institute**
+- 🌱 I’m currently learning React JS
 
 - 👨‍💻 All of my projects are available at [linktr.ee/sksahel](linktr.ee/sksahel)
 
