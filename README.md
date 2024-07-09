@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhsahel&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhsahel" /> </p>
 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Next JS
 
-- 👨‍💻 All of my projects are available at [linktr.ee/sksahel](linktr.ee/sksahel)
-
-- 📫 How to reach me **sahel4791@gmail.com**
+- 📫 How to reach me **s.ksahel2014@gmail.com**
 
 - ⚡ Fun fact **I'm funny😊**
 
